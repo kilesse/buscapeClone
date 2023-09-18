@@ -15,13 +15,17 @@ O projeto é composto por um único arquivo HTML (index.html) e três arquivos e
 <h3>Funcionalidades Principais</h3>
 O clone do site Buscapé possui as seguintes funcionalidades principais:
 
-1. **Comparação de Preços**: Os produtos são exibidos em cards com informações detalhadas, incluindo nome, descrição, preço à vista e preço parcelado em 10 vezes.
+ 1. **Comparação de Preços**: Os produtos são exibidos em cards com informações detalhadas, incluindo nome, descrição, preço à vista e preço parcelado em 10 vezes.
+    
+![Descrição da Imagem](teste%20buscapé/prints/print1.png)
 
-2. **Adicionar ao Carrinho**: Cada card de produto possui um botão "Adicionar ao carrinho". Quando esse botão é clicado, o produto é adicionado ao carrinho de compras.
+ 2. **Adicionar ao Carrinho**: Cada card de produto possui um botão "Adicionar ao carrinho". Quando esse botão é clicado, o produto é adicionado ao carrinho de compras.
 
-3. **Carrinho de Compras**: O carrinho de compras fica oculto inicialmente, mas pode ser aberto e fechado clicando no ícone do carrinho no canto superior direito da página.
+ 3. **Carrinho de Compras**: O carrinho de compras fica oculto inicialmente, mas pode ser aberto e fechado clicando no ícone do carrinho no canto superior direito da página.
 
-4. **Atualização de Preços**: À medida que os produtos são adicionados ao carrinho, o preço total à vista e o preço total parcelado em 10 vezes são atualizados dinamicamente.
+![Descrição da Imagem](teste%20buscapé/prints/print2.png)
+
+ 4. **Atualização de Preços**: À medida que os produtos são adicionados ao carrinho, o preço total à vista e o preço total parcelado em 10 vezes são atualizados dinamicamente.
 
 <h3>Como Executar o Projeto</h3>
 Para executar o projeto em seu ambiente local, siga estas etapas:
